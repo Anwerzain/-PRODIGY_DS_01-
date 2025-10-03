@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1z5qmegrCXMqFH3BByU574BuJLDL13-iN
 """
 
-# Ye code paste karo
+# import libraries
 import pandas as pd
 import matplotlib.pyplot as plt
 
